@@ -16,7 +16,7 @@
 	curx = hmarg;
 	cury = vmarg;
 	boxh = 30;
-	myspec = ControlSpec.new(0, 100, \lin, 1);
+	myspec = ControlSpec.new(0, 127, \lin, 1);
 	ctrls = [(label: "Master"), (label: "Headphone"), (label: "Speaker")];
 	ww = ((ctrls.size+1)*hmarg+(ctrls.size*slidw));
 	wh = (vmarg * 4) + (boxh*2)+slidh;
