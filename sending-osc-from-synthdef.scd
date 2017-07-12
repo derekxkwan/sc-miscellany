@@ -1,4 +1,4 @@
-//example of sending osc out from a synthdef
+//example of sending osc out from a synthdef (indirectly)
 
 c = Bus.control(s, 1);
 n = NetAddr("127.0.0.1", 3000);
