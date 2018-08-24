@@ -12,3 +12,4 @@ miscellaneous supercollider code that doesn't have a particular home yet
 - polyinstr - snippet by h. james harkins (hjh/ddw) lifted from the sc-users list to handle multiple instruments controlled by one pattern. here for archival purposes.
 - sending-osc-from-synthdef - example of sending osc out from a synthdef (indirectly)
 - spatialization - borrowed from Daniel Mayer, notes on writing SynthDefs for spatialization
+- taptempo - a taptempo GUI window;
