@@ -6,6 +6,7 @@ miscellaneous supercollider code that doesn't have a particular home yet
 - device_select - beginnings of a gui to control input/output device params
 - loadall - scd directory loader/evaluator 
 - looping-in-synthdef - example of using a function with a looping control structure to make a synthdef
+- lpd81 - starting efforts at playing with a akai lpd8 
 - class-list-to-text - one-liner to write all installed classes to a text file (for use in emac's auto-complete plugin for instance)
 - fx-chain - some ideas for effects chaining
 - note-to-midi - converts note names (symbols or strings) to midinotes
