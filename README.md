@@ -1,5 +1,5 @@
 # sc-miscellany
-miscellaneous supercollider code that doesn't have a particular home yet
+miscellaneous gpl v3 supercollider code that doesn't have a particular home yet
 
 - amixer-gui - a GUI frontend for amixer (Linux CLI to adjust ALSA volume settings)
 - bjorklund - euclidean rhythm generator function
